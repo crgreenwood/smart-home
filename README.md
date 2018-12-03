@@ -6,7 +6,7 @@ Home automation project intended to give me a good understanding of smart home t
 
 ## Getting Started
 
-* Kubernetes
+* [Kubernetes] (docs/kubernetes.md)
 * Helm
 * MariaDB
 * Hass.io
