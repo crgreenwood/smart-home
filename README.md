@@ -9,13 +9,13 @@ Home automation project intended to give me a better understanding of smart home
 * Hass.io on ESXi
 * Hass.io static IP
 * Add-ons
-** Configurator 
-** Node-Red
-** Terminal
+  * Configurator 
+  * Node-Red
+  * Terminal
 * Integrations
-** Sure Petcare
-** Loop Energy Monitor
-** Others (the easy ones)
+  * Sure Petcare
+  * Loop Energy Monitor
+  * Others (the easy ones)
 
 ### Prerequisites
 
