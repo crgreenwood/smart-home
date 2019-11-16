@@ -1,20 +1,25 @@
 # Smart-Home
 
-Home automation project intended to give me a good understanding of smart home tech but with a more stable infrastructure backing (because why not)
+Home automation project intended to give me a better understanding of smart home tech.
 
 >Note this is a development project, nothing here may be of any use to man nor beast!
 
 ## Getting Started
 
-* [Kubernetes](docs/kubernetes.md)
-* Helm
-* MariaDB
-* Hass.io
-* Node-Red
+* Hass.io on ESXi
+* Hass.io static IP
+* Add-ons
+** Configurator 
+** Node-Red
+** Terminal
+* Integrations
+** Sure Petcare
+** Loop Energy Monitor
+** Others (the easy ones)
 
 ### Prerequisites
 
-This was built on what I had available at the time, namely a vSphere host and a RaspberryPi, I've tried to make this platform agnostic wherever possible.
+This was built on what I had available at the time, very little of what is here was created by me, I've just gathered together best practice to ensure that if I ever have to rebuild it, I have documented what I have!
 
 ## Authors
 
