@@ -11,7 +11,10 @@ Home automation project intended to give me a better understanding of smart home
 * Add-ons
   * Configurator 
   * Node-Red
-  * Terminal
+  * SSH & Web Terminal
+  * Samba
+  * Portainer
+  * NGINX
 * Integrations
   * Sure Petcare
   * Loop Energy Monitor
@@ -21,14 +24,9 @@ Home automation project intended to give me a better understanding of smart home
 
 This was built on what I had available at the time, very little of what is here was created by me, I've just gathered together best practice to ensure that if I ever have to rebuild it, I have documented what I have!
 
-## Authors
+## Author
 
 * **Chris Greenwood** - [chrisgreenwood.co.uk](https://www.chrisgreenwood.co.uk)
 
-## License
-
-TBC
-
-## Acknowledgments
 
 
