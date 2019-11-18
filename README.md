@@ -8,6 +8,7 @@ Home automation project intended to give me a better understanding of smart home
 
 * Hass.io on ESXi
 * Hass.io static IP
+* Implementing Secrets
 * Add-ons
   * Configurator 
   * Node-Red
